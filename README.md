@@ -2,15 +2,18 @@
 
 <h2>👨‍💻 Wordpress Developer Projects:</h2>
 
--Stellar Write(https://stellarwrites.com/)<br>
--YBS Cosmetics(https://ybscosmetics.com/)<br>
--JB Hassan(https://jbhasan.com/)<br>
+-[Stellar Write](https://stellarwrites.com/)<br>
+-[YBS Cosmetics](https://ybscosmetics.com/)<br>
+-[JB Hassan](https://jbhasan.com/)<br>
 
 <h2>📺 Language </h2>
 - <b>HTML</b>
 - <b>CSS</b>
 - <b>Bootstrap</b>
 - <b>JavaScript(Basic)</b>
+<h2> Certification </h2>
+-[Freelancing]<br>
+-[SEO]<br>
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
