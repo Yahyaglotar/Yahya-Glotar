@@ -6,6 +6,7 @@
 -YBS Cosmetics(https://ybscosmetics.com/)<br>
 -JB Hassan(https://jbhasan.com/)<br>
 
+<h2>📺 Language </h2>
 - <b>HTML</b>
 - <b>CSS</b>
 - <b>Bootstrap</b>
