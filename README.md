@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Wordpress Developer Projects:</h2>
 
--Stellar Write(https://stellarwrites.com/)
--YBS Cosmetics(https://ybscosmetics.com/)
--JB Hassan(https://jbhasan.com/)
+-Stellar Write(https://stellarwrites.com/)<br>
+-YBS Cosmetics(https://ybscosmetics.com/)<br>
+-JB Hassan(https://jbhasan.com/)<br>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
